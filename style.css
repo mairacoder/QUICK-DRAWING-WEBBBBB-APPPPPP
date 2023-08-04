@@ -1,0 +1,12 @@
+body{
+    background-color: lavenderblush;
+}
+span#score {
+    font-size: medium;
+    margin-left: 20px;
+}
+span#timer {
+    font-size: medium;
+    float:right;
+    margin-right: 25px;
+}
